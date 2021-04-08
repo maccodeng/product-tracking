@@ -1,0 +1,1 @@
+﻿alter table satıslar alter column tücret decimal

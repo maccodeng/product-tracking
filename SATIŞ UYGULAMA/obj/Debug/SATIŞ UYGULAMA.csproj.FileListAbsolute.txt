@@ -1,0 +1,90 @@
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\SATIŞ UYGULAMA.exe.config
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\SATIŞ UYGULAMA.exe
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\SATIŞ UYGULAMA.pdb
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.Form1.resources
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.Properties.Resources.resources
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ UYGULAMA.csproj.GenerateResource.Cache
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ UYGULAMA.exe
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ UYGULAMA.pdb
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\Dbsatıs.mdf
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\Dbsatıs_log.ldf
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.Form2.resources
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.çıkısekranı.resources
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.sifrefrm.resources
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.personelform.resources
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.depo.resources
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.uruneklefrm.resources
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\DbsatısDataSet1.Designer.cs
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\DbsatısDataSet1.xsc
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\DbsatısDataSet1.xsd
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\DbsatısDataSet1.xss
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.satıslarfrm.resources
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.satıslarlistefrm.resources
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.raporlarfrm.resources
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\RdlCompile.cache
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\RdlCompile.compiled
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\Report1.rdlc
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\DbsatısDataSet111.Designer.cs
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\DbsatısDataSet111.xsc
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\DbsatısDataSet111.xsd
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\DbsatısDataSet111.xss
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ UYGULAMA.csprojResolveAssemblyReference.cache
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\Report2.rdlc
+C:\Users\Ciger\Desktop\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.message.resources
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\SATIŞ UYGULAMA.exe.config
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ UYGULAMA.exe
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ UYGULAMA.pdb
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\Dbsatıs.mdf
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\Dbsatıs_log.ldf
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\Report1.rdlc
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\Report2.rdlc
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\DbsatısDataSet1.Designer.cs
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\DbsatısDataSet111.Designer.cs
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\DbsatısDataSet1.xsc
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\DbsatısDataSet1.xsd
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\DbsatısDataSet1.xss
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\DbsatısDataSet111.xsc
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\DbsatısDataSet111.xsd
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\DbsatısDataSet111.xss
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\SATIŞ UYGULAMA.exe
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\SATIŞ UYGULAMA.pdb
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ UYGULAMA.csprojResolveAssemblyReference.cache
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.depo.resources
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.Form1.resources
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.Form2.resources
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.message.resources
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.personelform.resources
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.Properties.Resources.resources
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.raporlarfrm.resources
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.satıslarfrm.resources
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.satıslarlistefrm.resources
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.sifrefrm.resources
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.uruneklefrm.resources
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ_UYGULAMA.çıkısekranı.resources
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\SATIŞ UYGULAMA.csproj.GenerateResource.Cache
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\RdlCompile.cache
+D:\Me\PROJE\SATIŞ UYGULAMA\SATIŞ UYGULAMA\obj\Debug\RdlCompile.compiled

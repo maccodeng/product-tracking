@@ -1,0 +1,1 @@
+﻿alter table satıslar add tücret int
